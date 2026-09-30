@@ -16,4 +16,4 @@ Mesai saatleri (08:00 - 17:00) içerisinde ışığın açık kalmasını, mesai
 1. Proje dosyasını bilgisayarınıza indirin.
 2. Python IDLE üzerinden açıp `F5` tuşuna basarak veya Terminal (CMD) ekranında dizine gidip aşağıdaki komutu yazarak simülasyonu başlatabilirsiniz:
    ```bash
-   python arsiv_isigi.py
+   python akilli_ev.py
