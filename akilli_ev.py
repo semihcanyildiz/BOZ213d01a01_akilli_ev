@@ -57,4 +57,4 @@ while True:
             print("Hata: Lütfen 0 ile 24 arasında geçerli bir saat giriniz.")
             
     except ValueError:
-        print("Hata: Lütfen sadece rakam giriniz!")
+        print("Hata: Lütfen sadece tam saat giriniz!")
